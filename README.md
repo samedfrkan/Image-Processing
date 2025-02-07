@@ -1,2 +1,3 @@
 # Image-Processing
-Works of learn to fundamentals of image processing  
+
+ESOGU Deep Learning HW1
